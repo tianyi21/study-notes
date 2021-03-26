@@ -1,0 +1,16 @@
+## LaTeX
+*.log
+*.aux
+*.gz
+*.bib
+*.tex
+*.bbl
+*.blg
+*.sty
+
+## Figure
+*.jpg
+*.png
+*.jpeg
+*.gif
+*/img
