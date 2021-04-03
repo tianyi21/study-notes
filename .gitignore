@@ -7,6 +7,8 @@
 *.bbl
 *.blg
 *.sty
+LaTeX/*.pdf
+LaTeX
 
 ## Figure
 *.jpg
@@ -14,3 +16,5 @@
 *.jpeg
 *.gif
 */img
+
+

@@ -1,10 +1,9 @@
 My personal study notes for ML, prob, stats, etc.
 
 # Done
-- [x] Nothing Yet!
+- [x] VI: Variational Inference
 
 # Coming Soon
-- [ ] VI: Variational Inference
 - [ ] EM: Expectation-Maximization Algorithm
 
 # To-Do List
