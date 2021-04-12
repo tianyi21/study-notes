@@ -4,6 +4,7 @@ My personal study notes for ML, prob, stats, etc. It helps me to review somethin
 - [x] VI: Variational Inference
 
 # Coming Soon ✍️
+- [ ] PCA: Principle Component Analysis
 - [ ] EM: Expectation-Maximization Algorithm
 
 # To-Do List 📅
